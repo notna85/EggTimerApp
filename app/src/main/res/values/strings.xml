@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EggTimerApp</string>
+    <string name="egg_timer_header">CHOOSE EGG</string>
+    <string name="timer_start">Start timer</string>
+    <string name="timer_stop">Stop timer</string>
+    <string name="timer_finish">Finished!</string>
+    <string name="egg_soft">Soft</string>
+    <string name="egg_medium">Medium</string>
+    <string name="egg_hard">Hard</string>
+    <string name="timer_default">00:00</string>
+</resources>
